@@ -3,8 +3,9 @@
 
 #include "board.hpp"
 
-class Solver:
+class Solver {
     public:
         int solve(Board board);
 
+};
 #endif
